@@ -7,10 +7,10 @@ Kaspersky Help: Account Support, Activation, Login & Customer Service
 
 Kaspersky is one of the leading cybersecurity software providers in the world, offering solutions for antivirus protection, internet security, and more.
 
---------------
 
 
-.. image:: sk.png
+
+.. image:: jp.png
    :alt: My Project Logo
    :width: 400px
    :align: center
@@ -19,7 +19,7 @@ Kaspersky is one of the leading cybersecurity software providers in the world, o
 
 
 
-------------------
+
 
  With its wide range of services designed to keep users' devices secure, it’s crucial to know how to manage your Kaspersky account, activate your software, and get help whenever you encounter issues. This article will guide you through the Kaspersky login process, activation steps, common account support issues, and how to get in touch with customer service when necessary.
 
