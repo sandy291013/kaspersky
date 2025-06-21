@@ -10,7 +10,7 @@ Kaspersky is one of the leading cybersecurity software providers in the world, o
 
 
 
-.. image:: jp.png
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
